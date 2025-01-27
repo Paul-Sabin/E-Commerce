@@ -2,6 +2,8 @@
 
 VS Group E-Commerce Expansion and Data Analysis
 
+**See PDF file "Tableau Story Export - E-Commerce EDA & Clustering" for a presentation of some of the findings from this project.
+
 Overview
 
 VS Group, a U.S. company, is working on expanding its e-commerce business domestically. To support this growth, two main challenges have been identified:
